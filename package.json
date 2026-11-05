@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-treasury-tic",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "U.S. Treasury International Capital (TIC) System — foreign holdings of U.S. securities, by country, monthly.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "treasury-tic",
     "gatewaySlug": "treasury-tic",
-    "sourceHash": "v1-63066d06bff1165f5857b0d02207b9d13b6fbf2754fd696cd7df20c4443a35e2",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-788b7c3a675f2efb55786403b381fdb03130ce3697e57d3de817a200d88ee900",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
